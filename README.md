@@ -200,7 +200,7 @@ can be found in the `assets/` directory.
 ## Author
 
 **Nuthalapati Akash**
-B.Tech Computer Science and Engineering
+B.Tech INFORMATION TECHNOLOGY and Engineering
 VIT Vellore
 
 ---
